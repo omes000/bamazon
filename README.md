@@ -70,39 +70,39 @@ Allows the manager to perform 4 tasks: a. VIEW Stock, b. View LOW Stock, c. ADD 
 node CLI.js manager
 ```
 
-![Entering Manager View](../screenshots/manview1.png "Manager View")
+![Entering Manager View](/screenshots/manview1.png "Manager View")
 
 #### VIEW
 
 The manager can then select from one of the four tasks. If 'VIEW' is selected, the manager can view the current status of all products: 
 
-![Viewing all Products](../screenshots/manview2.png "Viewing All Products")
+![Viewing all Products](/screenshots/manview2.png "Viewing All Products")
 
 #### LOW
 
 If 'LOW' is selected, the manager can view products with a stock quantity of 5 or lower:
 
-![Viewing Low Stock Products](../screenshots/manview3.png "Viewing Low Stock Products")
+![Viewing Low Stock Products](/screenshots/manview3.png "Viewing Low Stock Products")
 
 #### ADD
 
 If 'ADD' is selected, the manager is prompted to enter the id of the product they wish to replenish, along with the amount they wish to replenish it with: 
 
-![Adding Stock to Existing Products](../screenshots/manview4.png "Adding Stock to Existing Products")
+![Adding Stock to Existing Products](/screenshots/manview4.png "Adding Stock to Existing Products")
 
 The manager is presented with a confirmation and can then view the updated stock by selected the 'VIEW' task:
 
-![Viewing Updated Stock](../screenshots/manview5.png "Viewing Updated Stock")
+![Viewing Updated Stock](/screenshots/manview5.png "Viewing Updated Stock")
 
 #### NEW
 
 Finally, if 'NEW' is selected, the manager is prompted to enter the details of the new item they wish to add: 
 
-![Adding New Products](../screenshots/manview6.png "Adding New Products")
+![Adding New Products](/screenshots/manview6.png "Adding New Products")
 
 The manager is presented with a confirmation message and can then view the updated product database by selecting the 'VIEW' task:
 
-![View Updated Product Database](../screenshots/manview7.png "Viewing Updated Product Database")
+![View Updated Product Database](/screenshots/manview7.png "Viewing Updated Product Database")
 
 ## Author
 
