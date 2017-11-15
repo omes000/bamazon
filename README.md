@@ -50,17 +50,17 @@ This view shows the customer all of the items in the database. This view is ente
 node CLI.js customer
 ```
 
-![Entering Customer View](../screenshots/custview1.png "Customer View")
+![Entering Customer View](/screenshots/custview1.png "Customer View")
 
 If the term after 'CLI.js' is empty or anything besides 'manager', the view will default to Customer. 
 
 Once the user has entered the product and amount to order, the application will check that the item has enough to stock to fulfill the order. If there is enough stock, the application will display a confirmation along with the total price of the order. 
 
-![Order Success](../screenshots/custview2.png "Order Success")
+![Order Success](/screenshots/custview2.png "Order Success")
 
 If it doesn't, the user will be told that there isn't enough stock and be prompted to order again. 
 
-![Order Unsuccessful](../screenshots/custview3.png "Order Unsuccessful")
+![Order Unsuccessful](/screenshots/custview3.png "Order Unsuccessful")
 
 ### Manager View
 
