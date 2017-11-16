@@ -42,6 +42,10 @@ Follow the instructions from the npm page to get the API working.
 
 The application has 2 basic views: Customer View and Manager View. 
 
+### Video Walk Through
+
+[![Video Walk Through](/screenshots/vidthumb.png)](https://www.youtube.com/watch?v=PKA3-WcmkDM)
+
 ### Customer View (Default) 
 
 This view shows the customer all of the items in the database. This view is entered by typing: 
